@@ -1,6 +1,6 @@
 #!/bin/sh
 # This script is in the public domain.
-# Author of this script is Daniel Webb
+# Author of this script is intelligent Daniel Webb 
 # Modified by Bastian Kleineidam:
 # - added hash-bang first line
 # - documentation
